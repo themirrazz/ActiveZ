@@ -16,4 +16,4 @@ const control = await w96.sys.execCmd("active-z", ["create", "nameOfControl"]);
 ```
 
 ## Can I make my own ActiveZ control?
-Yes, you can! In order to learn about how ActiveZ works, please see our [developer documentation](/docs/index.md)! Please note these all apply to the upcoming ActiveZ v1.0, not the current v0.1.
+Yes, you can! In order to learn about how ActiveZ works, please see our [developer documentation](/docs/index.md)! Please note these all apply to the upcoming ActiveZ v1 release, not the current version (v0).
