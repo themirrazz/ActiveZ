@@ -1,0 +1,7 @@
+/ACTIVE-Z/
+NAME: "XMLHttpRequest";
+AUTHOR: "thmrzz";
+VER: 1.0;
+URL: https://github.com/themirrazz/ActiveZ/
+
+return new XMLHttpRequest();
