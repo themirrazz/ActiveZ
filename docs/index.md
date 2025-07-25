@@ -72,7 +72,7 @@ VER: 1.0
 
 return {
     open: async (videoId, embed) => {
-        return await w96.sys.execCmd('border', [`https://www.youtube.com/${embed ? "embed/" : "watch?v=}${videoId}`]);
+        return await w96.sys.execCmd('border', [`https://www.youtube.com/${embed ? "embed/" : "watch?v="}${videoId}`]);
     }
 }
 ```
